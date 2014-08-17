@@ -1,4 +1,5 @@
 <link href="bootstrap.css" rel='stylesheet' type='text/css'>
+<!-- Athor: Evan (evan06alam@gmail.com)-->
 <center>
 <?php 
 $allowedExts = array("gif", "jpeg", "jpg", "png");

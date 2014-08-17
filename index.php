@@ -5,6 +5,16 @@
 </head>
 
 <body><center>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tgo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-3995546819230349"
+     data-ad-slot="4579678782"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <div class="form-group">
 <form action="upload_file.php" method="post"
 enctype="multipart/form-data">
@@ -14,6 +24,24 @@ enctype="multipart/form-data">
 <input type="submit" name="submit" value="Submit" class="btn btn-primary">
 </form>
 </div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tgo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-3995546819230349"
+     data-ad-slot="4579678782"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tgo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-3995546819230349"
+     data-ad-slot="4579678782"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 </center>
 </body>
 </html>

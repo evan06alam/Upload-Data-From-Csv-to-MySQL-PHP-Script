@@ -60,4 +60,22 @@ echo'<h2><br/><br/><br/>Invalid file,<h2><h3><br/> Please upload only valid CSV 
 echo '<a href="index.php" class="btn btn-warning active">Return to File Upload</a>';
 }
 ?>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tgo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-3995546819230349"
+     data-ad-slot="4579678782"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- tgo -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:15px"
+     data-ad-client="ca-pub-3995546819230349"
+     data-ad-slot="4579678782"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 </center>
